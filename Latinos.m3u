@@ -1081,3 +1081,69 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/302717
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/adultos/venus.png" group-title="Adultos", Venus TV Latino SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304511
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="││TV││ INFANTILES", ││KIDS HD││INFANTIL BABY TV HD
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/167
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="││TV││ INFANTILES", ││KIDS HD││ CARTOONITO
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/168
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="││TV││ INFANTILES", ││KIDS HD││CARTOON NETWORK (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/169
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="││TV││ INFANTILES", ││KIDS││ DISCOVERY KIDS HD (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/170
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="││TV││ INFANTILES", ││KIDS HD││ DISNEY CHANNEL (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/171
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="││TV││ INFANTILES", ││KIDS HD│N│DISNEY JUNIOR
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/172
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1024px-Tooncast_logo.svg.png" group-title="││TV││ INFANTILES", ││KIDS HD││ TOONCAST SD
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/173
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/NatGeoKids.mx.png" group-title="││TV││ INFANTILES", ││KIDS HD││ NATGEO KIDS
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/174
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="││TV││ INFANTILES", ││KIDS HD││ NICK (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/175
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="││TV││ INFANTILES", ││KIDS││ NICK JR HD  (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/177
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="││TV││ INFANTILES", ││KIDS││PPV MOVIES
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/430
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NickJr.us.png" group-title="││TV││ INFANTILES", ││KIDS││ NICK JR (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/77
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/co/DiscoveryKids.co.png" group-title="││TV││ INFANTILES", ││KIDS SD│N│DISCOVERY KIDS
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/80
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/pa/CartoonNetwork.pa.png" group-title="││TV││ INFANTILES", ││KIDS SD││ CARTOON NETWORK
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/81
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="││TV││ INFANTILES", ││KIDS HD││ BOOMERANG
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/79
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" group-title="││TV││ INFANTILES", ││KIDS HD││ NICKELODEON (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/89
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/se/DisneyJunior.se.png" group-title="││TV││ INFANTILES", ││KIDS SD││ DISNEY JR
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/90
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="││TV││ INFANTILES", ││KIDS HD││ CARTOONITO
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/168
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="││TV││ INFANTILES", ││KIDS HD││CARTOON NETWORK (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/169
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="││TV││ INFANTILES", ││KIDS││ DISCOVERY KIDS HD (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/170
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="││TV││ INFANTILES", ││KIDS HD││ DISNEY CHANNEL (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/171
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="││TV││ INFANTILES", ││KIDS HD│N│DISNEY JUNIOR
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/172
