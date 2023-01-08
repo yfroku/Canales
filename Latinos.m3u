@@ -1147,3 +1147,39 @@ http://latinanplad.com:8080/Rodriguez26/Rodriguez26/171
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="││TV││ INFANTILES", ││KIDS HD│N│DISNEY JUNIOR
 http://latinanplad.com:8080/Rodriguez26/Rodriguez26/172
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="││TV││CULTURA", ││CULT││(N) HISTORY 2D
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/44
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/pa/HistoryLatinAmerica.pa.png" group-title="││TV││CULTURA", ││CULT HD││ HISTORY (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/159
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="││TV││CULTURA", ││CULT FHD││  GOURMET (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/409
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="││TV││CULTURA", ││CULT FHD││  HGTV
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/410
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png" group-title="││TV││CULTURA", FOOD NETWORK HD (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/81554
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/EuropaEuropa.mx.png" group-title="││TV││CULTURA", ││CULT SD││  EUROPA EUROPA
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/22
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/GalaTV9Nacional.mx.png" group-title="││TV││CULTURA", ││CULT SD││  GALA TV
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/33
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/pa/GlitzLatinAmerica.pa.png" group-title="││TV││CULTURA", ││CULT SD││ GLITZ
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/34
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/pa/HistoryLatinAmerica.pa.png" group-title="││TV││CULTURA", ││CULT HD││ HISTORY (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/159
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="││TV││CULTURA", ││CULT FHD││  GOURMET (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/409
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="││TV││CULTURA", ││CULT FHD││  HGTV
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/410
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png" group-title="││TV││CULTURA", FOOD NETWORK HD (N)
+http://latinanplad.com:8080/Rodriguez26/Rodriguez26/81554
