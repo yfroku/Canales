@@ -1,6 +1,6 @@
-#EXTM3U   I
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/culturales/animalp.png" group-title="Latinos Dual Audio (E)", Animal Planet FHD (CO) (E)
+EXTINF:-1 tvg-logo="https://img.tvcl.xyz/culturales/animalp.png" group-title="Latinos Dual Audio (E)", Animal Planet FHD (CO) (E)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35195
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/culturales/history.png" group-title="Latinos Dual Audio (E)", History Channel FHD (MX E)
