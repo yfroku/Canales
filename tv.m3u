@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Lista IPTV POR YF"
-
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/cablenoticias.png" group-title="Colombia", Cable Noticias FHD (CO)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304219
 
@@ -71,7 +69,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304249
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/citytv.png" group-title="Colombia", City TV. SD (CO)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304250
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/cosmovision.png" group-title="Colombia", Cosmovisi�n SD (CO)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/cosmovision.png" group-title="Colombia", Cosmovisión SD (CO)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304251
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/ntn24.png" group-title="Colombia", NTN24 SD (CO)
@@ -98,13 +96,13 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304261
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/rcn.png" group-title="Colombia", RCN Telenovelas SD (CO)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304262
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/senalcolombia.png" group-title="Colombia", Se�al Colombia SD (CO)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/senalcolombia.png" group-title="Colombia", Señal Colombia SD (CO)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304263
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/senalcolombia.png" group-title="Colombia", Se�al Colombia FHD (CO)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/senalcolombia.png" group-title="Colombia", Señal Colombia FHD (CO)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304264
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/senalcolombia.png" group-title="Colombia", Se�al Colombia SD (CO)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/senalcolombia.png" group-title="Colombia", Señal Colombia SD (CO)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304266
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/teleantoquia.png" group-title="Colombia", Teleantioquia HD (CO)
@@ -151,9 +149,6 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304286
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/tvagro.png" group-title="Colombia", Tvagro SD (CO)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304287
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/culturales/animalp.png" group-title="Culturales", Animal Planet SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34799
@@ -341,9 +336,6 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312823
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/44f2f9603d1467f5d36e1f93438027d8.png" group-title="Culturales", Inti TV SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312824
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Infantiles", Cartoon Network SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34752
 
@@ -491,9 +483,6 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312762
 #EXTINF:-1 tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/disney_junior.png" group-title="Infantiles", Disney Junior HD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312763
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 VIP Pocoyo FHD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/50630
 
@@ -545,13 +534,13 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35491
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Sony Y Su Banda SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35492
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Scooby Doo: D�nde est�s? SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Scooby Doo: Dónde estás? SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35493
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Robotech SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35494
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales 24/7", 24/7 El P�jaro Loco SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales 24/7", 24/7 El Pájaro Loco SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35495
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Batman HD
@@ -563,7 +552,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35497
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Fenomenoide SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35500
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 La Peque�a LuL� SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 La Pequeña LuLú SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35501
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 El Conde Patula SD
@@ -593,7 +582,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35514
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Gravity falls HD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35515
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Chapul�n Colorado Animado HD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Chapulín Colorado Animado HD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35516
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Bob Esponja HD
@@ -641,7 +630,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35533
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Ranma 1/2 HD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35534
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Halcones Gal�ctico SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Halcones Galáctico SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35535
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Exponiendo Infieles SD
@@ -707,7 +696,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/49191
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Hechizada Temp 1 SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/49192
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 La Ni�era Temp 1 SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 La Niñera Temp 1 SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/49198
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Friends Temp 1 SD
@@ -788,7 +777,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/49236
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 She-Ra La Princesa del Poder SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/49239
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Capit�n Planeta y Los Planetarios SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Capitán Planeta y Los Planetarios SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/49240
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Sailor Moon SD
@@ -824,7 +813,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/49252
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Gi Joe SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/49253
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Rugrats Aventura en Pa�ales SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Rugrats Aventura en Pañales SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/49254
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Capitan Cabernicola SD
@@ -836,7 +825,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/49257
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 La Vaca y el Pollito SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/49258
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Los A�os Maravillosos SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Los Años Maravillosos SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/49259
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Las Aventuras de Tin Tin SD
@@ -986,10 +975,10 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58307
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Los peligros De Penelope Glamour SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58308
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Los peque�os Looney Tunes HD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Los pequeños Looney Tunes HD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58309
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Los peque�os Tom y Jerry SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Los pequeños Tom y Jerry SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58310
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Los Picapiedras SD
@@ -1028,7 +1017,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58220
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Pulgarcito Investigador Privado SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58215
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Peque�os Planetas HD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Pequeños Planetas HD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58212
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Mi pobre angelito SD
@@ -1067,10 +1056,10 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58185
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Family Guy HD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58183
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 F�bulas del Bosque Verde SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Fábulas del Bosque Verde SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58186
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Esp�ritu de lucha SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Espíritu de lucha SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58182
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 El show de Scooby Doo y ScrappyDoo SD
@@ -1085,10 +1074,10 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58177
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Dog City SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58176
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 DNA� SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 DNA² SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58175
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Dartac�n y los tres mosqueperros SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Dartacán y los tres mosqueperros SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58174
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Cowboy Bebop SD
@@ -1106,7 +1095,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58169
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Capitan Futuro SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58167
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Capit�n Centella SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Capitán Centella SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58168
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Burst Angel HD
@@ -1124,7 +1113,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58162
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Archie y Sabrina la Hechicera SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58161
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Angel la ni�a de la flores SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Angel la niña de la flores SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58160
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 Almendrita SD
@@ -1151,7 +1140,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58217
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 11 SuperGirl HD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58224
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 11 Tarzan, el se�or de la jungla SD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 11 Tarzan, el señor de la jungla SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58227
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 11 Thundarr, el barbaro SD
@@ -1159,9 +1148,6 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58229
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7", 24/7 11 Wildcats SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/58234
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/noticias/24h.png" group-title="Noticias", 24 Horas SD (CL)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35170
@@ -1193,7 +1179,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35178
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/noticias/cnnchile.png" group-title="Noticias", CNN Chile FHD (CL)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35180
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="Noticias", CNN Espa�ol SD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="Noticias", CNN Español SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35181
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="Noticias", CNN Internacional SD (MX)
@@ -1211,7 +1197,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35185
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/715ddbc6d6d5fca3d2d09abbd9963044.png" group-title="Noticias", NTN 24 SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35189
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/noticias/rt.png" group-title="Noticias", RT en Espa�ol FHD (LAT.)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/noticias/rt.png" group-title="Noticias", RT en Español FHD (LAT.)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35191
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/noticias/cnnchile.png" group-title="Noticias", CNN Chile SD (CL)
@@ -1229,7 +1215,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312869
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/noticias/bbc.png" group-title="Noticias", BBC World SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312870
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/noticias/cnn.png" group-title="Noticias", CNN en espa�ol SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/noticias/cnn.png" group-title="Noticias", CNN en español SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312871
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/noticias/cnn.png" group-title="Noticias", CNN Int. SD (LAT)
@@ -1261,9 +1247,6 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35175
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/colombia/cablenoticias.png" group-title="Colombia", Cable Noticias FHD (CO)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304220
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latinos VIP", TVC Deportes HD (MX VIP)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/302737
@@ -1544,7 +1527,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34715
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/deportes/wwe.png" group-title="Deportes", WWE Network HD  (US)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34716
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/bein.png" group-title="Deportes", b31N Sports � HQ (ES)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/deportes/bein.png" group-title="Deportes", b31N Sports Ñ HQ (ES)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34717
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="Deportes", b31N Sports 1 HQ (AR)
@@ -1736,47 +1719,44 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304302
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Peru", Movistar Deportes. FHD (PE)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304303
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Espa�a", ES: M. Deportes SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", ES: M. Deportes SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/303818
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Espa�a", ES: M.Deportes FHD 2Mb
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", ES: M.Deportes FHD 2Mb
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/303819
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Espa�a", ES: M. Deportes FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", ES: M. Deportes FHD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/303820
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Espa�a", ES: M. Deportes 2 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", ES: M. Deportes 2 FHD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/303823
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Espa�a", ES: M. Deportes 2 SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", ES: M. Deportes 2 SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/303824
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Espa�a", ES: M. Deportes 3 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", ES: M. Deportes 3 FHD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/303825
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Espa�a", ES: M. Deportes 3 SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", ES: M. Deportes 3 SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/303826
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Espa�a", ES: M. Deportes 4 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", ES: M. Deportes 4 FHD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/303827
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Espa�a", ES: M. Deportes 4 SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", ES: M. Deportes 4 SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/303828
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Espa�a", ES: M. Deportes 5 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", ES: M. Deportes 5 FHD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/303829
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Espa�a", ES: M. Deportes 5 SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", ES: M. Deportes 5 SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/303830
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Espa�a", ES: M. Deportes 6 SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", ES: M. Deportes 6 SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/303831
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Espa�a", ES: M. Deportes 7 SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", ES: M. Deportes 7 SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/303832
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/6a0eb19be3e1cf8931543e7565042b88.png" group-title="Internacionales", A3 Series SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35080
@@ -2015,9 +1995,6 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/313023
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales", Telemundo HQ (PR)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/313024
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/culturales/animalp.png" group-title="Latinos Dual Audio (E)", Animal Planet FHD (CO) (E)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35195
 
@@ -2216,9 +2193,6 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312963
 #EXTINF:-1 tvg-logo="http://198.255.17.202:58000/zeus/lists/icons/cinemax.png" group-title="Latinos Dual Audio (E)", Cinemax HD (LAT)*
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312966
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latinos VIP", Adrenalina HD (MX VIP)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/302603
 
@@ -2402,7 +2376,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/302678
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latinos VIP", AZMundo FHD (MX VIP)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/302680
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latinos VIP", Azteca Coraz�n HD (MX VIP)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latinos VIP", Azteca Corazón HD (MX VIP)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/302681
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latinos VIP", Azteca 1 HD (MX VIP)
@@ -2420,7 +2394,7 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/302689
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latinos VIP", Claro Sports HD (MX VIP)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/302690
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latinos VIP", CNN Espa�ol HD (MX VIP)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latinos VIP", CNN Español HD (MX VIP)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/302691
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/comedycentral.png" group-title="Latinos VIP", Comedy Central HD (MX VIP)
@@ -2558,482 +2532,470 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304509
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latinos VIP", TUDN HD (MX VIP)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304510
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/zonalatina.png" group-title="M�sica", Zona Latina SD (CL)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/zonalatina.png" group-title="Música", Zona Latina SD (CL)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35012
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/mtv.png" group-title="M�sica", MTV FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/mtv.png" group-title="Música", MTV FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35015
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/mtv.png" group-title="M�sica", MTV SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/mtv.png" group-title="Música", MTV SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35016
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/mtv.png" group-title="M�sica", MTV HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/mtv.png" group-title="Música", MTV HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35017
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/mtv.png" group-title="M�sica", MTV FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/mtv.png" group-title="Música", MTV FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35018
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/mtvhits.png" group-title="M�sica", MTV Hits SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/mtvhits.png" group-title="Música", MTV Hits SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35019
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="M�sica", MTV Live SD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="Música", MTV Live SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35020
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/mtvlive.png" group-title="M�sica", MTV Live FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/mtvlive.png" group-title="Música", MTV Live FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35021
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/concert.png" group-title="M�sica", Concert Channel SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/concert.png" group-title="Música", Concert Channel SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35022
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/concert.png" group-title="M�sica", Concert Channel FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/concert.png" group-title="Música", Concert Channel FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35023
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/concert.png" group-title="M�sica", Concert Channel HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/concert.png" group-title="Música", Concert Channel HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35024
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/htv.png" group-title="M�sica", HTV SD (ARG)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/htv.png" group-title="Música", HTV SD (ARG)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35025
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/portalfoxmix.png" group-title="M�sica", Portal Foxmix SD (CL)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/portalfoxmix.png" group-title="Música", Portal Foxmix SD (CL)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35028
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/telehit.png" group-title="M�sica", Telehit SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/musica/telehit.png" group-title="Música", Telehit SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35030
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="M�sica", MTV 00S SD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="Música", MTV 00S SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35033
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="M�sica", MTV 80s (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="Música", MTV 80s (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35034
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="M�sica", MTV 00S FHD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="Música", MTV 00S FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35035
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretenci�n", Las Estrellas SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención", Las Estrellas SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35036
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretenci�n", Las Estrellas FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención", Las Estrellas FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35037
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/lifetime.png" group-title="Entretenci�n", Lifetime SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/lifetime.png" group-title="Entretención", Lifetime SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35038
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/lifetime.png" group-title="Entretenci�n", Lifetime FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/lifetime.png" group-title="Entretención", Lifetime FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35039
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/e.png" group-title="Entretenci�n", E! SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/e.png" group-title="Entretención", E! SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35040
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/e.png" group-title="Entretenci�n", E! FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/e.png" group-title="Entretención", E! FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35041
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/5a8e8a92306f9b9c7290cace6a0170ec.png" group-title="Entretenci�n", Hola TV SD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/5a8e8a92306f9b9c7290cace6a0170ec.png" group-title="Entretención", Hola TV SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35042
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/5a8e8a92306f9b9c7290cace6a0170ec.png" group-title="Entretenci�n", Hola TV FHD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/5a8e8a92306f9b9c7290cace6a0170ec.png" group-title="Entretención", Hola TV FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35044
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/elgourmet.png" group-title="Entretenci�n", El Gourmet SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/elgourmet.png" group-title="Entretención", El Gourmet SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35045
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/elgourmet.png" group-title="Entretenci�n", El Gourmet HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/elgourmet.png" group-title="Entretención", El Gourmet HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35046
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/elgourmet.png" group-title="Entretenci�n", El Gourmet FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/elgourmet.png" group-title="Entretención", El Gourmet FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35047
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="Entretenci�n", Food Network SD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="Entretención", Food Network SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35048
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="Entretenci�n", Food Network FHD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="Entretención", Food Network FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35049
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/garagetv.png" group-title="Entretenci�n", Garage TV FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/garagetv.png" group-title="Entretención", Garage TV FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35051
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/672b1e33b157d94153c5cc18401b2f1a.png" group-title="Entretenci�n", Glitz SD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/672b1e33b157d94153c5cc18401b2f1a.png" group-title="Entretención", Glitz SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35052
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/dc.png" group-title="Entretenci�n", Distrito Comedia SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/dc.png" group-title="Entretención", Distrito Comedia SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35053
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/maschic.png" group-title="Entretenci�n", Mas Chic SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/maschic.png" group-title="Entretención", Mas Chic SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35055
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/maschic.png" group-title="Entretenci�n", Mas Chic  HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/maschic.png" group-title="Entretención", Mas Chic  HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35056
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/maschic.png" group-title="Entretenci�n", Mas Chic FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/maschic.png" group-title="Entretención", Mas Chic FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35057
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/pasiones.png" group-title="Entretenci�n", Pasiones SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/pasiones.png" group-title="Entretención", Pasiones SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35058
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/pasiones.png" group-title="Entretenci�n", Pasiones HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/pasiones.png" group-title="Entretención", Pasiones HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35059
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/pasiones.png" group-title="Entretenci�n", Pasiones FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/pasiones.png" group-title="Entretención", Pasiones FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35060
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/tbs.png" group-title="Entretenci�n", TbS SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/tbs.png" group-title="Entretención", TbS SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35062
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/trutv.png" group-title="Entretenci�n", TruTV SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/trutv.png" group-title="Entretención", TruTV SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35065
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/trutv.png" group-title="Entretenci�n", TruTV FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/trutv.png" group-title="Entretención", TruTV FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35066
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/unicable.png" group-title="Entretenci�n", Unicable SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/unicable.png" group-title="Entretención", Unicable SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35077
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/173f6557c6a62af1f4e3715369c89120.png" group-title="Entretenci�n", Tl Novelas SD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/173f6557c6a62af1f4e3715369c89120.png" group-title="Entretención", Tl Novelas SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312825
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/holatv.png" group-title="Entretenci�n", Hola TV HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/holatv.png" group-title="Entretención", Hola TV HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312821
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/79f3a982fd2496a50c5ec8f88e9b608f.png" group-title="Entretenci�n", Lifetime FHD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/79f3a982fd2496a50c5ec8f88e9b608f.png" group-title="Entretención", Lifetime FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312814
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/79f3a982fd2496a50c5ec8f88e9b608f.png" group-title="Entretenci�n", Lifetime HD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/79f3a982fd2496a50c5ec8f88e9b608f.png" group-title="Entretención", Lifetime HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312815
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/foodnetwork.png" group-title="Entretenci�n", Food Network HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/entretencion/foodnetwork.png" group-title="Entretención", Food Network HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312813
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/amc.png" group-title="Pel�culas y Series", AMC SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/amc.png" group-title="Películas y Series", AMC SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34915
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/amc.png" group-title="Pel�culas y Series", AMC FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/amc.png" group-title="Películas y Series", AMC FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34916
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/amc.png" group-title="Pel�culas y Series", AMC SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/amc.png" group-title="Películas y Series", AMC SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34917
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/amc.png" group-title="Pel�culas y Series", AMC HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/amc.png" group-title="Películas y Series", AMC HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34918
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/amc.png" group-title="Pel�culas y Series", AMC FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/amc.png" group-title="Películas y Series", AMC FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34919
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Pel�culas y Series", Warner Channel SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Películas y Series", Warner Channel SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34920
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Pel�culas y Series", Warner Channel FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Películas y Series", Warner Channel FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34921
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Pel�culas y Series", Warner Channel SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Películas y Series", Warner Channel SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34922
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Pel�culas y Series", Warner Channel FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Películas y Series", Warner Channel FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34923
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/fox.png" group-title="Pel�culas y Series", Fox SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/fox.png" group-title="Películas y Series", Fox SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34924
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/8ab2630ada18b94a005a0c5399d9d483.png" group-title="Pel�culas y Series", Star Channel FHD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/8ab2630ada18b94a005a0c5399d9d483.png" group-title="Películas y Series", Star Channel FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34925
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/8ab2630ada18b94a005a0c5399d9d483.png" group-title="Pel�culas y Series", Star Channel SD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/8ab2630ada18b94a005a0c5399d9d483.png" group-title="Películas y Series", Star Channel SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34926
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/8ab2630ada18b94a005a0c5399d9d483.png" group-title="Pel�culas y Series", Star Channel HD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/8ab2630ada18b94a005a0c5399d9d483.png" group-title="Películas y Series", Star Channel HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34927
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/8ab2630ada18b94a005a0c5399d9d483.png" group-title="Pel�culas y Series", Star Channel FHD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/8ab2630ada18b94a005a0c5399d9d483.png" group-title="Películas y Series", Star Channel FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34928
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Pel�culas y Series", Sony Entertainment SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Películas y Series", Sony Entertainment SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34934
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Pel�culas y Series", Sony Entertainment FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Películas y Series", Sony Entertainment FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34935
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Pel�culas y Series", Sony Entertainment SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Películas y Series", Sony Entertainment SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34936
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Pel�culas y Series", Sony Entertainment HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Películas y Series", Sony Entertainment HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34937
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Pel�culas y Series", Sony Entertainment FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Películas y Series", Sony Entertainment FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34938
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/axn.png" group-title="Pel�culas y Series", AXN SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/axn.png" group-title="Películas y Series", AXN SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34939
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/axn.png" group-title="Pel�culas y Series", AXN FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/axn.png" group-title="Películas y Series", AXN FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34940
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/axn.png" group-title="Pel�culas y Series", AXN SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/axn.png" group-title="Películas y Series", AXN SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34941
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="Pel�culas y Series", AXN HD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="Películas y Series", AXN HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34942
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/axn.png" group-title="Pel�culas y Series", AXN FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/axn.png" group-title="Películas y Series", AXN FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34943
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/aye.png" group-title="Pel�culas y Series", A&E SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/aye.png" group-title="Películas y Series", A&E SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34944
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/aye.png" group-title="Pel�culas y Series", A&E FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/aye.png" group-title="Películas y Series", A&E FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34945
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/aye.png" group-title="Pel�culas y Series", A&E SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/aye.png" group-title="Películas y Series", A&E SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34946
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/aye.png" group-title="Pel�culas y Series", A&E HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/aye.png" group-title="Películas y Series", A&E HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34947
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/aye.png" group-title="Pel�culas y Series", A&E FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/aye.png" group-title="Películas y Series", A&E FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34948
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/comedycentral.png" group-title="Pel�culas y Series", Comedy Central SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/comedycentral.png" group-title="Películas y Series", Comedy Central SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34949
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/comedycentral.png" group-title="Pel�culas y Series", Comedy Central FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/comedycentral.png" group-title="Películas y Series", Comedy Central FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34950
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/comedycentral.png" group-title="Pel�culas y Series", Comedy Central SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/comedycentral.png" group-title="Películas y Series", Comedy Central SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34951
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/comedycentral.png" group-title="Pel�culas y Series", Comedy Central HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/comedycentral.png" group-title="Películas y Series", Comedy Central HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34952
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/comedycentral.png" group-title="Pel�culas y Series", Comedy Central FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/comedycentral.png" group-title="Películas y Series", Comedy Central FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34953
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/1c8a2a7c1511c01ee5158ec2ed99b749.png" group-title="Pel�culas y Series", Universal Channel SD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/1c8a2a7c1511c01ee5158ec2ed99b749.png" group-title="Películas y Series", Universal Channel SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34954
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/1c8a2a7c1511c01ee5158ec2ed99b749.png" group-title="Pel�culas y Series", Universal Channel FHD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/1c8a2a7c1511c01ee5158ec2ed99b749.png" group-title="Películas y Series", Universal Channel FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34955
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/1c8a2a7c1511c01ee5158ec2ed99b749.png" group-title="Pel�culas y Series", Universal Channel SD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/1c8a2a7c1511c01ee5158ec2ed99b749.png" group-title="Películas y Series", Universal Channel SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34956
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tnt.png" group-title="Pel�culas y Series", TNT SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tnt.png" group-title="Películas y Series", TNT SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34957
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tnt.png" group-title="Pel�culas y Series", TNT HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tnt.png" group-title="Películas y Series", TNT HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34958
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tnt.png" group-title="Pel�culas y Series", TNT FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tnt.png" group-title="Películas y Series", TNT FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34959
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Pel�culas y Series", TNT Series SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Películas y Series", TNT Series SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34960
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Pel�culas y Series", TNT Series FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Películas y Series", TNT Series FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34961
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Pel�culas y Series", TNT Series SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Películas y Series", TNT Series SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34962
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Pel�culas y Series", TNT Series HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Películas y Series", TNT Series HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34963
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Pel�culas y Series", TNT Series FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Películas y Series", TNT Series FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34964
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="Pel�culas y Series", Studio Universal SD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="Películas y Series", Studio Universal SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34965
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="Pel�culas y Series", Studio Universal FHD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="Películas y Series", Studio Universal FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34966
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tcm.png" group-title="Pel�culas y Series", TCM SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/tcm.png" group-title="Películas y Series", TCM SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34967
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/space.png" group-title="Pel�culas y Series", Space SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/space.png" group-title="Películas y Series", Space SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34968
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/space.png" group-title="Pel�culas y Series", Space FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/space.png" group-title="Películas y Series", Space FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34969
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/space.png" group-title="Pel�culas y Series", Space HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/space.png" group-title="Películas y Series", Space HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34970
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/space.png" group-title="Pel�culas y Series", Space FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/space.png" group-title="Películas y Series", Space FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34971
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/599d89a71fd2107680db91ff858f733b.png" group-title="Pel�culas y Series", I-Sat SD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/599d89a71fd2107680db91ff858f733b.png" group-title="Películas y Series", I-Sat SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34972
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/fx.png" group-title="Pel�culas y Series", FX SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/fx.png" group-title="Películas y Series", FX SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34973
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/fx.png" group-title="Pel�culas y Series", FX FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/fx.png" group-title="Películas y Series", FX FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34974
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/fx.png" group-title="Pel�culas y Series", FX SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/fx.png" group-title="Películas y Series", FX SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34975
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/fx.png" group-title="Pel�culas y Series", FX FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/fx.png" group-title="Películas y Series", FX FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34976
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="Pel�culas y Series", Paramount Channel SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="Películas y Series", Paramount Channel SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34980
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="Pel�culas y Series", Paramount Channel FHD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="Películas y Series", Paramount Channel FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34981
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="Pel�culas y Series", Paramount Channel SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="Películas y Series", Paramount Channel SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34982
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="Pel�culas y Series", Paramount Channel HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="Películas y Series", Paramount Channel HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34983
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="Pel�culas y Series", Paramount Channel FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="Películas y Series", Paramount Channel FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34984
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/golden.png" group-title="Pel�culas y Series", Golden SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/golden.png" group-title="Películas y Series", Golden SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34985
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/goldene.png" group-title="Pel�culas y Series", Golden Edge SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/goldene.png" group-title="Películas y Series", Golden Edge SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34986
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/gplus.png" group-title="Pel�culas y Series", Golden Plus SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/gplus.png" group-title="Películas y Series", Golden Plus SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34987
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/gplus.png" group-title="Pel�culas y Series", Golden Plus FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/gplus.png" group-title="Películas y Series", Golden Plus FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34989
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinecanal.png" group-title="Pel�culas y Series", Cinecanal SD (MX)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinecanal.png" group-title="Películas y Series", Cinecanal SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34990
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinecanal.png" group-title="Pel�culas y Series", Cinecanal FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinecanal.png" group-title="Películas y Series", Cinecanal FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34991
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinecanal.png" group-title="Pel�culas y Series", Cinecanal SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinecanal.png" group-title="Películas y Series", Cinecanal SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34992
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinecanal.png" group-title="Pel�culas y Series", Cinecanal HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinecanal.png" group-title="Películas y Series", Cinecanal HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34993
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinecanal.png" group-title="Pel�culas y Series", Cinecanal FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinecanal.png" group-title="Películas y Series", Cinecanal FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34994
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="Pel�culas y Series", Cinemax SD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="Películas y Series", Cinemax SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34995
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="Pel�culas y Series", Cinemax FHD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="Películas y Series", Cinemax FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34996
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="Pel�culas y Series", Cinemax SD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="Películas y Series", Cinemax SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34997
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinelatino.png" group-title="Pel�culas y Series", Cine Latino SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinelatino.png" group-title="Películas y Series", Cine Latino SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34998
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/d1eaff2d9e0c64c895ebf3467805a4c0.png" group-title="Pel�culas y Series", De Pelicula Plus SD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/d1eaff2d9e0c64c895ebf3467805a4c0.png" group-title="Películas y Series", De Pelicula Plus SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35000
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/08a4415e9d594ff960030b921d42b91e.png" group-title="Pel�culas y Series", Europa Europa SD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/08a4415e9d594ff960030b921d42b91e.png" group-title="Películas y Series", Europa Europa SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35001
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/72517ec76113f1c5aa1746b1cadd9efc.png" group-title="Pel�culas y Series", Film & Art SD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/72517ec76113f1c5aa1746b1cadd9efc.png" group-title="Películas y Series", Film & Art SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35002
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/1f2dfa567dcf95833eddf7aec167fec7.png" group-title="Pel�culas y Series", Multipremier SD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/1f2dfa567dcf95833eddf7aec167fec7.png" group-title="Películas y Series", Multipremier SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35003
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/dhe.png" group-title="Pel�culas y Series", DHE SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/dhe.png" group-title="Películas y Series", DHE SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35004
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/dhe.png" group-title="Pel�culas y Series", DHE HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/dhe.png" group-title="Películas y Series", DHE HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35005
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/dhe.png" group-title="Pel�culas y Series", DHE FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/dhe.png" group-title="Películas y Series", DHE FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35006
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/14831b3a087423067dd5af937a12204b.png" group-title="Pel�culas y Series", SyFy SD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/14831b3a087423067dd5af937a12204b.png" group-title="Películas y Series", SyFy SD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35010
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/14831b3a087423067dd5af937a12204b.png" group-title="Pel�culas y Series", SyFy FHD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/14831b3a087423067dd5af937a12204b.png" group-title="Películas y Series", SyFy FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35011
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/08a4415e9d594ff960030b921d42b91e.png" group-title="Pel�culas y Series", Europa Europa FHD (MX)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/08a4415e9d594ff960030b921d42b91e.png" group-title="Películas y Series", Europa Europa FHD (MX)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/177210
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Pel�culas y Series", Eurochannel SD (LAT.)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Películas y Series", Eurochannel SD (LAT.)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/177211
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/160996f8dc30c89cceeccfb36e2a89cb.png" group-title="Pel�culas y Series", Studio Universal HD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/160996f8dc30c89cceeccfb36e2a89cb.png" group-title="Películas y Series", Studio Universal HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312777
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/universal.png" group-title="Pel�culas y Series", Universal Channel HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/universal.png" group-title="Películas y Series", Universal Channel HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312778
 
-#EXTINF:-1 tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/a3s.png" group-title="Pel�culas y Series", A3Series Int. FHD (LAT)
+#EXTINF:-1 tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/a3s.png" group-title="Películas y Series", A3Series Int. FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312779
 
-#EXTINF:-1 tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/a3s.png" group-title="Pel�culas y Series", A3Series Int. HD (LAT)
+#EXTINF:-1 tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/a3s.png" group-title="Películas y Series", A3Series Int. HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312780
 
-#EXTINF:-1 tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/cinemax_latinoamerica.png" group-title="Pel�culas y Series", Cinemax HD (LAT)
+#EXTINF:-1 tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/cinemax_latinoamerica.png" group-title="Películas y Series", Cinemax HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312782
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/fe627ab6205ea0d53291556dcde90c55.png" group-title="Pel�culas y Series", Claro Cinema HD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/fe627ab6205ea0d53291556dcde90c55.png" group-title="Películas y Series", Claro Cinema HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312784
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/fe627ab6205ea0d53291556dcde90c55.png" group-title="Pel�culas y Series", Claro Cinema SD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/fe627ab6205ea0d53291556dcde90c55.png" group-title="Películas y Series", Claro Cinema SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312785
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/depelicula.png" group-title="Pel�culas y Series", De Pelicula HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/depelicula.png" group-title="Películas y Series", De Pelicula HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312787
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/ee.png" group-title="Pel�culas y Series", Europa Europa HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/ee.png" group-title="Películas y Series", Europa Europa HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312788
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/filmyarts.png" group-title="Pel�culas y Series", Film & Arts FHD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/filmyarts.png" group-title="Películas y Series", Film & Arts FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312789
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/filmyarts.png" group-title="Pel�culas y Series", Film & Arts HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/filmyarts.png" group-title="Películas y Series", Film & Arts HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312790
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/filmyarts.png" group-title="Pel�culas y Series", Film & Arts SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/filmyarts.png" group-title="Películas y Series", Film & Arts SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312791
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/b5f03a05c5c8863aeae4a790c0331bf7.png" group-title="Pel�culas y Series", Star TVE Int FHD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/b5f03a05c5c8863aeae4a790c0331bf7.png" group-title="Películas y Series", Star TVE Int FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312792
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/syfy.png" group-title="Pel�culas y Series", SYFY HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/syfy.png" group-title="Películas y Series", SYFY HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312796
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/syfy.png" group-title="Pel�culas y Series", SYFY SD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/syfy.png" group-title="Películas y Series", SYFY SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312797
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png" group-title="Pel�culas y Series", TBS FHD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png" group-title="Películas y Series", TBS FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312798
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png" group-title="Pel�culas y Series", TBS HD (LAT)
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png" group-title="Películas y Series", TBS HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312799
 
-#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Pel�culas y Series", Warner HD (LAT)
+#EXTINF:-1 tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Películas y Series", Warner HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312800
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Pel�culas y Series", A3Cine FHD (LAT)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Películas y Series", A3Cine FHD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312801
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Pel�culas y Series", A3Cine HD (LAT)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Películas y Series", A3Cine HD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312802
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Pel�culas y Series", A3Cine SD (LAT)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Películas y Series", A3Cine SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312803
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/c2e714d76736e313fb3697b61325a27e.png" group-title="Cine Premium", Universal Crime SD (LAT)
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34851
@@ -3200,9 +3162,6 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/312776
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/brasil/telecine.png" group-title="Brasil", BR: Telecine Premium
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304193
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/adultos/playboy.png" group-title="Adultos", Playboy Latino FHD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/35326
 
@@ -3361,9 +3320,6 @@ http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/302717
 
 #EXTINF:-1 tvg-logo="https://img.tvcl.xyz/adultos/venus.png" group-title="Adultos", Venus TV Latino SD
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/304511
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinema.png" group-title="PPV Cine", PPV: Cinema 01
 http://dnsplay.xyz:80/NbuuHuMf/MFkk20VH/34477
